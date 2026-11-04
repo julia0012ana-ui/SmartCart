@@ -834,6 +834,13 @@ $('complaintForm').addEventListener('submit', e => {
     $('complaintDialog').close();
   }
 });
+  $('faqBtn').addEventListener('click', () => {
+  $('faqDialog').showModal();
+});
+
+$('closeFaq').addEventListener('click', () => {
+  $('faqDialog').close();
+});
 </script>
 
 </body>
