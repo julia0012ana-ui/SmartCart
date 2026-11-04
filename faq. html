@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Perguntas Frequentes - SmartCart</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background:#020715;
+    color:white;
+    padding:20px;
+}
+
+.container{
+    max-width:800px;
+    margin:auto;
+}
+
+h1{
+    color:#08d8ff;
+}
+
+.faq{
+    background:#071c39;
+    border:1px solid #078dff;
+    padding:15px;
+    margin-bottom:15px;
+    border-radius:15px;
+}
+
+.pergunta{
+    color:#08d8ff;
+    font-weight:bold;
+    margin-bottom:8px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>❓ Perguntas Frequentes</h1>
+
+<div class="faq">
+<div class="pergunta">
+Como conectar o SmartCart?
+</div>
+<div>
+Clique em "Conectar" e selecione o dispositivo Bluetooth do carrinho.
+</div>
+</div>
+
+<div class="faq">
+<div class="pergunta">
+Qual navegador utilizar?
+</div>
+<div>
+Google Chrome ou Microsoft Edge com HTTPS.
+</div>
+</div>
+
+<div class="faq">
+<div class="pergunta">
+O carrinho não responde. O que fazer?
+</div>
+<div>
+Verifique a bateria, o Bluetooth e tente reconectar.
+</div>
+</div>
+
+<div class="faq">
+<div class="pergunta">
+Como enviar uma reclamação?
+</div>
+<div>
+Clique no botão "Relatar Reclamações" para abrir o formulário oficial.
+</div>
+</div>
+
+<br>
+
+<button onclick="history.back()">
+⬅ Voltar
+</button>
+
+</div>
+
+</body>
+</html>
